@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Rishabh Kumrawat",
     title: "Web Developer & Competitive Programmer",
     email: "Rishabh.Kumrawat@studentambassadors.com",
-    gitHub: "https://github.com/rishikumrawat02",
-    instagram: "https://www.instagram.com/rishi_kumrawat_/",
-    linkedIn: "https://www.linkedin.com/in/rishabh-kumrawat/",
+    gitHub: "rishikumrawat02",
+    instagram: "rishi_kumrawat_/",
+    linkedIn: "rishabh-kumrawat/",
     medium: "",
     twitter: "",
     youTube: ""
@@ -28641,9 +28641,7 @@ const Home = ({ name , title  })=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 style: {
-                    position: "absolute",
-                    top: "5rem",
-                    left: "2rem",
+                    paddingLeft: "2rem",
                     width: "17rem"
                 },
                 children: [
